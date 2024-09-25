@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Students Details</title>
+</head>
+<body>
+<h2 align="center">Student Details</h2>
+<table border="2">
+<tr>
+<th>Student Id</th>
+<th>Name</th>
+<th>Year</th>
+<th>Department</th>
+<th>E-mail</th>
+<th>Contact No</th>
+<th>Address</th>
+<th>10th Percentage</th>
+<th>12th Percentage</th>
+<th>GPA</th>
+</tr>
+<tr>
+<td>123</td>
+<td>sri</td>
+<td>II-yr</td>
+<td>CSBS</td>
+<td>sri@gmail.com</td>
+<td>2345678901</td>
+<td>Bharathi street,coimbatore</td>
+<td>75%</td>
+<td>72%</td>
+<td>8.17 gpa</td>
+</tr>
+<tr>
+<td>Jessi</td>
+<td>II-yr</td>
+<td>CSBS</td>
+<td>jessi@gmail.com</td>
+<td>2576587231</td>
+<td>Thulasi nagar,chennai</td>
+<td>86%</td>
+<td>80%</td>
+<td>8.32gpa</td>
+</tr>
+<tr>
+<td>832</td>
+<td>Taylor</td>
+<td>II-yr</td>
+<td>CSBS</td>
+<td>taylor@gmail.com</td>
+<td>9653241876</td>
+<td>123,Broadway street,chennai</td>
+<td>86%</td>
+<td>90%</td>
+<td>9.18%</td>
+</tr>
+</table>
+</body>
+</html>
