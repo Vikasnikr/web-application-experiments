@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Symposium Registration</title>
+</head>
+<body>
+<fieldset>
+<h3><center>SYMPOSIUM REGISTRATION</center></h3>
+<form>
+<label>NAME:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text"<br><br>
+<label>REGiSTER NUMBER:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text"<br><br>
+<label>COLLEGE:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text"<br><br>
+<label>E-MAIL:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text"<br><br>
+<label>CONTACT NUMBER:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="number"<br><br>
+<label>TECHNICAL EVENT:</label><br>
+<input type="checkbox">
+<label>CODE HUNTER</label><br>
+<input type="checkbox">
+<label>CODE DEBUGGING</label><br>
+<input type="checkbox">
+<label>PAPER PRESENTATION</label><br>
+<label>NON-TECHNICAL EVENT:</label><br>
+<input type="checkbox">
+<label>DANCE</label><br>
+<input type="checkbox">
+<label>SINGING</label><br>
+<input type="checkbox">
+<label>MIME</label><br>
+<input type="submit" value="submit">
+</form>
+</field set>
+</body>
+</html>
